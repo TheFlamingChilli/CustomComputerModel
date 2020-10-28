@@ -1,8 +1,0 @@
-{
-    "variants": {
-           "facing=north": { "model": "block/computer_tower_block"},
-            "facing=east": { "model": "block/computer_tower_block", "y": 90 },
-           "facing=south": { "model": "block/computer_tower_block", "y": 180 },
-            "facing=west": { "model": "block/computer_tower_block", "y": 270 }
-    }
-}
