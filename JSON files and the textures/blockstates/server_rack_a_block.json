@@ -1,0 +1,8 @@
+{
+    "variants": {
+           "facing=north": { "model": "customblocks:block/server_rack_a_block"},
+            "facing=east": { "model": "customblocks:block/server_rack_a_block", "y": 90 },
+           "facing=south": { "model": "customblocks:block/server_rack_a_block", "y": 180 },
+            "facing=west": { "model": "customblocks:block/server_rack_a_block", "y": 270 }
+    }
+}
