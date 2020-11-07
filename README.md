@@ -9,4 +9,4 @@ For example, `CustomBlock-1.16.3-1.1.1` means that its for Minecraft `1.16.3`, a
 
 ## Features
 - The blocks are all static blocks except for the computer monitor
-- If u do `Shift + Right Click` on the computer monitor, then a GUI will be opened.
+- If u do `Shift + Right Click` on the computer monitor, then a GUI will be opened. From there you can type `say hello` into the text field and press `Run` to run the command.
